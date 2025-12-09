@@ -1,0 +1,14 @@
+/scripts/logs
+/logs*
+__pycache__
+.pytest_cache
+rc_exp_models
+!/logs_expert
+/tdmpc2
+/outputs
+/data/*
+!/data/metaworld/
+!/data/robosuite/
+7bot_exps
+extracted_gifs
+outputs

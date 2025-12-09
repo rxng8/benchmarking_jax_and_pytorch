@@ -1,0 +1,17 @@
+pyyaml
+opencv-python
+opencv-python-headless
+pandas
+einops
+beartype
+portal
+matplotlib
+seaborn
+imageio
+tensorflow-cpu
+colored
+rich
+pybullet
+pygame
+gymnasium==1.1.1
+gymnasium[box2d]==1.1.1
